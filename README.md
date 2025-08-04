@@ -8,6 +8,7 @@ Some facets didn't quite suit my preference and system (ran on windows in powers
 
 
 ## My Directory Structure
+```
 fix_photo_metadata.py
 iCloudPhotosPartXofY/
 │   ├── Photo Details.csv
